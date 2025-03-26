@@ -1,2 +1,1 @@
-# ATBS-python
-Python exercise and sample programs from 'Automate The Boring Stuff with Python' by Al Sweigart for personal practice and learning.
+This is my own solutions to the practice projects and some sample program from the book 'Automate the Boring Stuff with Python' by Al Sweigart. The book is accessible for free in this website [*Automate the Boring Stuff with Python*](https://automatetheboringstuff.com/#toc. Support the author by buying his book in Amazon or purchasing his Udemy course inside the link above.
